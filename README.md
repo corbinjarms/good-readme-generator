@@ -20,5 +20,5 @@
 ##### corbinjarms
 ## Contact Information
 ##### corbin@corbinjarms.com
-![Application Example](./Assets/Images/Screenshot.PNG)
+![Application Example](./assets/screenshots/Screenshot.PNG)
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
